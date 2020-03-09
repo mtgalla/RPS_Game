@@ -1,4 +1,4 @@
-#Rock Paper Scissors User Stories#
+# Rock Paper Scissors User Stories
 
 - user can start game once another user chooses to play
 - user can see rps choices
